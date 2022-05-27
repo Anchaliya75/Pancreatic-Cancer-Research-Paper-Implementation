@@ -1,1 +1,1 @@
-# Pancreas-Cancer
+# Pancreatic-Cancer
